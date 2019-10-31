@@ -16,7 +16,7 @@
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "needle": "^2.4.0",
     "pug": "2.0.0-beta11",
     "underscore": "^1.9.1",
